@@ -1,0 +1,104 @@
+[
+  {
+    "name": "工作",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "看Vue3官方文档做的笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "看尚硅谷Vue3视频做的笔记"
+      }
+    ]
+  },
+  {
+    "name": "生活",
+    "icon": "linecons-doc",
+    "web": [
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "斯多葛哲学入门，b站上有对应的课程，拜为生活哲学"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "一个记录歌单、电影、书的地方"
+      }
+    ]
+  },
+  {
+    "name": "想法",
+    "icon": "linecons-lightbulb",
+    "web": [
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "个人博客主站，主要是记录一些有价值的想法，但自己不一定会这样做，根本原因是记录可以解放大脑"
+      }
+    ]
+  },
+  {
+    "name": "兴趣",
+    "icon": "linecons-doc",
+    "web": [
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "Udemy上的python课，觉得很有意思，有点想学"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "VitePress，静态博客构建工具，是一个轻量级的VuePress"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "一些CSS笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "阅读管理的主站"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "看尚硅谷TS视频做的笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "看尚硅谷TS视频做的笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "Kindle数据备份，以后说不定用得到"
+      },
+      {
+        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "金字塔原理的笔记"
+      }
+    ]
+  }
+]
