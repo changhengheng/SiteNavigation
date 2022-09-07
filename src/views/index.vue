@@ -64,7 +64,7 @@
         <!-- github链接 -->
         <ul class="user-info-menu right-links list-inline list-unstyled">
           <li class="hidden-sm hidden-xs">
-            <a href="https://changhengheng/Anjaxs/WebStack-vue" target="_blank">
+            <a href="https://github.com/changhengheng/SiteNavigation" target="_blank">
               <i class="fa-github"></i> GitHub
             </a>
           </li>

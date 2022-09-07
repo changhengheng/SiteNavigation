@@ -1,19 +1,101 @@
 [
   {
+    "name": "面试",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://pinia.web3doc.top/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "pinia文档"
+      },
+      {
+        "url": "https://v2.cn.vuejs.org/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Vue2文档"
+      },
+      {
+        "url": "https://cn.vuejs.org/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Vue3文档"
+      },
+      {
+        "url": "https://v3.vuex.vuejs.org/zh/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "VueX3文档"
+      },
+      {
+        "url": "https://vuex.vuejs.org/zh/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "VueX4文档"
+      },
+      {
+        "url": "https://router.vuejs.org/zh/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "VueRouter4文档"
+      },
+      {
+        "url": "https://v3.router.vuejs.org/zh/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "VueRouter3文档"
+      },
+      {
+        "url": "https://www.outofeverything.cn",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "线下课笔记",
+        "desc": "课程笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/ViteNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "b站付金泉的vite课程",
+        "desc": "课程笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/LessNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "less课程，老李文档和线下课",
+        "desc": "课程笔记"
+      },
+      {
+        "url": "http://180.76.234.180/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "老李文档",
+        "desc": "按着这个文档一节一节的复习"
+      },
+      {
+        "url": "https://github.com/changhengheng/prepare",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "面试的代码和笔记",
+        "desc": "记得及时保存和更新，防止丢失"
+      },
+      {
+        "url": "https://changhengheng.github.io/PrepareVueRouter3/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "VueRouter3文档面试粗过一遍的笔记"
+      }
+    ]
+  },
+  {
     "name": "工作",
     "icon": "linecons-star",
     "web": [
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/Vue3Notes/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "看Vue3官方文档做的笔记"
       },
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/Vue3Notes/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "看尚硅谷Vue3视频做的笔记"
+      },
+      {
+        "url": "https://changhengheng.github.io/TypeScriptNotes/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "Think like a Stoic: Ancient Wisdom for Today's World",
+        "desc": "看尚硅谷TS视频做的笔记"
       }
     ]
   },
@@ -28,10 +110,10 @@
         "desc": "斯多葛哲学入门，b站上有对应的课程，拜为生活哲学"
       },
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/BoxOfResonance/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
-        "desc": "一个记录歌单、电影、书的地方"
+        "desc": "共鸣箱子，一个记录我为什么是我的地方"
       }
     ]
   },
@@ -40,7 +122,7 @@
     "icon": "linecons-lightbulb",
     "web": [
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/VuePressBlog/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "个人博客主站，主要是记录一些有价值的想法，但自己不一定会这样做，根本原因是记录可以解放大脑"
@@ -52,25 +134,30 @@
     "icon": "linecons-doc",
     "web": [
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://doc.weex.io/zh/",
+        "logo": "assets/images/logos/bingkuai.png",
+        "title": "weeks文档"
+      },
+      {
+        "url": "https://changhengheng.github.io/PythonNotes/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "Udemy上的python课，觉得很有意思，有点想学"
       },
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/VitePressNotes/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "VitePress，静态博客构建工具，是一个轻量级的VuePress"
       },
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/CSSNotes/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "一些CSS笔记"
       },
       {
-        "url": "https://changhengheng.github.io/ThinkLikeaStoicNotes/",
+        "url": "https://changhengheng.github.io/ReadingRecords/",
         "logo": "assets/images/logos/bingkuai.png",
         "title": "Think like a Stoic: Ancient Wisdom for Today's World",
         "desc": "阅读管理的主站"
